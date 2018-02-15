@@ -3,7 +3,7 @@
  */
 
 
-const ws = new WebSocket('ws://192.168.1.41:8080');
+const ws = new WebSocket('ws://192.168.1.101:8080');		//Poner la dirección de donde se envia el audio
 
 var audioContext;
 var rawAudio = new Float32Array();
