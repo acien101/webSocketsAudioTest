@@ -1,1 +1,1 @@
-Este es un proyectillo de prueba para probar si se podía enviar audio por WebSockets. Para echarlo a funcionar instala las dependencias de NPM, vete al fichero public/main.js y cambia la dirección IP del webSocket. 
+Este es un proyectillo de prueba para probar si se podía enviar audio por WebSockets. Para echarlo a funcionar instala las dependencias de NPM, vete al fichero public/main.js y cambia la dirección IP del webSocket (osea tu dirección IP). 
